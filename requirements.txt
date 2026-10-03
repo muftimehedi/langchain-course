@@ -1,4 +1,5 @@
 langchain
 langchain-groq
-dotenv
-ipykernal
+python-dotenv
+ipykernel
+langgraph
