@@ -1,5 +1,7 @@
 .env
 .venv/
+.agents/
+.claude/
 __pycache__/
 .ipynb_checkpoints/
 *.pyc
